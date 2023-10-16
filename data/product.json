@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Nike React Infinity Run Flyknit",
+    "price": "52400",
+    "discription": "Nike Air cushioning reduces the weight of the shoe without reducing performance. The lighter the shoe is, the less energy athletes put out during their performance. Athletes need the cushioning in their footwear to last, and Nike Air is designed to provide support throughout the life of the shoe.",
+    "ratings": "4.5",
+    "images": [
+      {
+        "public_id": "lll",
+        "url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg"
+      },
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+      }
+    ],
+    "category": "RUNNING",
+    "seller": "bula",
+    "stock": "10",
+    "numofreviws": 32,
+    "reviews": [],
+    "user":"64bfc08969aeb225a7f4c484"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 37",
+    "price": "96500",
+    "discription": "Nike Air cushioning absorbs impact and immediately returns to its original shape to protect the body. These innovations allow any athlete to perform harder, while providing flawless comfort.",
+    "ratings": "4.2",
+    "images": [
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=415&q=80"
+      }
+    ],
+    "category": "RUNNING",
+    "seller": "bula",
+    "stock": "10",
+    "numofreviws": 3,
+    "reviews": [],
+    "user":"64bfc08969aeb225a7f4c484"
+  },
+  {
+    "name": "Nike Joyride Run Flyknit",
+    "price": "2300",
+    "discription": "Nike Air cushioning reduces the weight of the shoe without reducing performance. The lighter the shoe is, the less energy athletes put out during their performance. Athletes need the cushioning in their footwear to last, and Nike Air is designed to provide support throughout the life of the shoe.",
+    "ratings": "4.6",
+    "images": [
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1636718281370-b5e3f51a5af2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1612181346599-a6bfbd67be86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+      }
+    ],
+    "category": "RUNNING",
+    "seller": "bula",
+    "stock": "10",
+    "numofreviws": 2,
+    "reviews": [],
+    "user":"64bfc08969aeb225a7f4c484"
+  },
+  {
+    "name": "Nike Mercurial Vapor 13 Elite FG",
+    "price": "50000",
+    "discription": "Tightly stretched tensile fibres are knitted inside a pressurised Nike Air unit, giving the Zoom Air cushioning its snappy responsiveness. Each time an athlete's foot touches down, the fibres compress to cushion the impact before quickly springing back to their original state, generating an explosive, powerful response off the ground. Whether elite athletes are racing or training, they look to Zoom Air for a fast, responsive ride and that snappy, quick-off-the-ground feel that helps optimise their quest for speed.",
+    "ratings": "4.9",
+    "images": [
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1513188732907-5f732b831ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "public_id": "lll",
+        "url": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+      }
+    ],
+    "category": "FOOTBALL",
+    "seller": "bula",
+    "stock": "10",
+    "numofreviws": 9,
+    "reviews": [],
+    "user":"64bfc08969aeb225a7f4c484"
+  }
+  ]

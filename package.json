@@ -1,0 +1,15 @@
+{
+  "name": "clothingguru",
+  "version": "1.0.0",
+  "description": "e commerce cloths website using mern ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server.js",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/server.js",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

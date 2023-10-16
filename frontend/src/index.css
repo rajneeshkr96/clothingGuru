@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    height: 16px;
+}
+
+.nav-space {
+    width: calc(6px + 18vw);
+    height: 100vh;
+    margin-left: 59px;
+}
+
+.theme-color {
+    color: #6e6e6e;
+}
+
+.theme-color-2 {
+    color: #252525;
+}
+
+.theme-background-color2 {
+    background-color: #252525;
+}
+
+.theme-background-color3 {
+    background-color: #6e6e6e;
+}
+
+.theme-bg-hover:hover {
+    background-color: #6e6e6e;
+}
+
+.theme-background-color {
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+.g-fonts {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 20px;
+}
+
+.underline-animation {
+    display: inline-block;
+    position: relative;
+}
+
+.underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    background-color: #6e6e6e;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+.select-theme {
+    animation-name: selectAnimation;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+}
+
+@keyframes selectAnimation {
+    0% {
+        transform: translate(0px, 0px);
+    }
+
+    100% {
+        transform: translate(0px, -12px);
+        border-bottom: 2px solid black;
+    }
+}

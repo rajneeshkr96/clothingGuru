@@ -1,0 +1,39 @@
+
+.NavBar{
+    background-color: #252525;
+    position: fixed;
+    top: 8px;
+    left: 6px;
+    width: 18vw;
+    height: 100vh;
+}
+.search{
+    border-radius: none;
+    border: none;
+    outline: none;
+    background-color: rgba(240, 248, 255, 0);
+}
+.search:focus{
+    border-radius: none;
+    border: none;
+    outline: none;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+
+.cart-logo-container{
+    color: #1d1d1d;
+}
+.cart-logo-container:hover{
+    color: #4d4c4c;
+}
+
+.Nav-items li{
+    margin: 0.3rem 0;
+
+}
+
+.test{
+    border: 2px solid rgb(255, 255, 255);
+
+}
